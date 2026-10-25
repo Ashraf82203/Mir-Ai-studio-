@@ -144,3 +144,4 @@ npx drizzle-kit push   # apply DB migrations
 ---
 
 © 2026 Mir AI Studio · Built for Creators 🇵🇰🇮🇳
+Deployment setup check
